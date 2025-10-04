@@ -50,4 +50,44 @@ Users can easily switch between months, view attendance summaries, and monitor p
 ---
 
 ## 📁 Project Structure
+---
+
+## 🚀 How to Use
+
+1. Download or clone this repository.  
+2. Open the **Excel file** (`Attendance_Tracker.xlsx`) to explore the dashboard.  
+3. Open the **Power BI file** (`PowerBI_Report.pbix`) for interactive insights.  
+4. Navigate through the months using sidebar buttons.  
+5. Analyze attendance performance visually.
+
+---
+
+## 📈 Key Insights
+
+- Monthly Attendance Rate (%) per Employee  
+- Total Working Days vs. Leave/Absent Days  
+- Trends across multiple months  
+- Employee consistency leaderboard  
+- Leave & Absence analysis  
+
+---
+
+## 💡 Learnings and Outcomes
+
+- Building **automated dashboards** using Excel formulas and Power BI.  
+- Applying **conditional formatting** and **data validation** for better UX.  
+- Using **DAX measures** to calculate dynamic attendance stats.  
+- Integrating Excel and Power BI for professional reporting.
+
+---
+
+## 👨‍💻 Author
+
+**Rohit Rathod**  
+📧 [rohitrathod6132@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohit-rathod-163292333/)  
+
+---
+
+⭐ *If you found this project helpful, don’t forget to star the repository and share feedback!*
 
